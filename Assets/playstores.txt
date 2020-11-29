@@ -1,0 +1,9 @@
+Shopping Cart
+
+A simple app to create and manage your shopping cart/list.
+
+Sometimes you forgot some items to bought while shopping. In this app you can add items to your shopping list. You can carry a digital shopping list with you.
+
+Shopping items will persist in list until you delete it. You can reduce the quantity of items. You can mark item as taken/bought by touching cart icon. 
+
+Forget to forget things. Enjoy the app!!

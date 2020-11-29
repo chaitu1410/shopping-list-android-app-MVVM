@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1052.4dp"
+    android:height="744.09dp"
+    android:viewportWidth="1052.4"
+    android:viewportHeight="744.09">
+  <path
+      android:pathData="m345.37,644.58 l284.65,1.6"
+      android:strokeWidth="60"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+  <path
+      android:pathData="m340.11,646.15c0,32.96 -26.72,59.68 -59.68,59.68 -32.96,0 -59.68,-26.72 -59.68,-59.68 0,-32.96 26.72,-59.68 59.68,-59.68 32.96,0 59.68,26.72 59.68,59.68z"
+      android:strokeWidth="96.257"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+  <path
+      android:pathData="m751.45,646.95c0,32.96 -26.72,59.68 -59.68,59.68 -32.96,0 -59.68,-26.72 -59.68,-59.68 0,-32.96 26.72,-59.68 59.68,-59.68 32.96,0 59.68,26.72 59.68,59.68z"
+      android:strokeWidth="96.257"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+  <path
+      android:pathData="m699.79,575.6 l78.58,-468.28c30.44,-52.68 70.98,-68.26 139.12,-56.52"
+      android:strokeWidth="60"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+  <path
+      android:pathData="m716.07,487.09 l-498.38,0.57c-16.62,-1.71 -31.74,-12.16 -38.56,-30.62l-49.33,-251.18c-4.17,-17.46 13.6,-46.82 36.29,-50.46l610.68,-40.07"
+      android:strokeWidth="60"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+  <path
+      android:pathData="m274.96,260.84c1.51,0 3.02,0 0,0z"
+      android:strokeWidth="1"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"/>
+  <path
+      android:pathData="m655.97,233.62 l-386.69,26.08"
+      android:strokeWidth="70"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="m656.97,369.14 l-387.57,1.1"
+      android:strokeWidth="70"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+</vector>
